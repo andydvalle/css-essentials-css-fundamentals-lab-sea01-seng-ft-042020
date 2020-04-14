@@ -32,11 +32,11 @@ nav a {
 
 #details {
   display: block;
+  background: #999999;
 }
 
 #details div {
   float: left
-  background: grey;
   text-align: center;
   width: 25%;
 }
