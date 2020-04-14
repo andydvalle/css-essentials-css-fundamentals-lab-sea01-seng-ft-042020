@@ -12,8 +12,11 @@ h1 {
   text-align: center;
 }
 
-nav a {
+nav {
   text-align: center;
+}
+
+nav a {
   padding: 10px;
   background: #ff3333;
 }
