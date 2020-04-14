@@ -35,5 +35,8 @@ nav a {
 }
 
 #details div {
-  float: left;
+  float: left
+  background: #999999;
+  text-align: center;
+  width: 25%;
 }
