@@ -8,9 +8,6 @@ h1 {
   text-align: center;
 }
 
-#featured-property {
-  text-align: center;
-}
 
 nav {
   text-align: center;
@@ -19,9 +16,4 @@ nav {
 nav a {
   padding: 10px;
   background: #999999;
-}
-
-#featured-property {
-  text-align: center;
-  font-size: 14px;
 }
