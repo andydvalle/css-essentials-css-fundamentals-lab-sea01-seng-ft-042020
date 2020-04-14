@@ -14,11 +14,10 @@ figure {
 }
 
 nav {
-
+  text-align: center;
 }
 
 nav a {
-  text-align: center;
   padding: 10px;
   background: #999999;
 }
